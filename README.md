@@ -1,6 +1,4 @@
-# Crime-Data-Insights-Dashboard
-Interactive Power BI dashboard analyzing crime trends, regional crime patterns, yearly statistics, and category-wise insights using data visualization and business intelligence techniques.
-# 🚔 Crime Data Analysis Dashboard
+ 🚔 Crime Data Analysis Dashboard
 
 An interactive Power BI dashboard designed to analyze crime trends, crime categories, regional patterns, and yearly crime statistics using data visualization techniques.
 
